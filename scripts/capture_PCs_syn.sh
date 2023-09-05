@@ -4,7 +4,7 @@ n=$2
 d=$3
 prefetch_distance=(4 8 16 32 64)
 ####################PATH
-benchmark_path="/mh/APT-GET/CRONO/apps"
+benchmark_path="/mh/CRONO/apps"
 results_path="/mh/APT-GET/results"
 input_graphs_path="/mh/APT-GET/input_graph"
 python_codes_path="/mh/APT-GET/python-codes"

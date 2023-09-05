@@ -8,7 +8,7 @@
 ### You can get the input graphs from SNAP "http://snap.stanford.edu/data/web-Google.html"
 
 ####################PATH
-benchmark_path="/mh/APT-GET/CRONO/apps"
+benchmark_path="/mh/CRONO/apps"
 results_path="/mh/APT-GET/results"
 input_graphs_path="/mh/APT-GET/input_graph"
 python_codes_path="/mh/APT-GET/python-codes"
