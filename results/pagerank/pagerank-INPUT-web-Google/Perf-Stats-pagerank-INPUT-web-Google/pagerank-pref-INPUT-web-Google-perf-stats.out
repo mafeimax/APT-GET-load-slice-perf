@@ -1,0 +1,10 @@
+
+Config: Prefetching
+    Input_graph =  web-Google.txt
+    prefetch-distance = 
+---------------------------------
+
+Config: Prefetching
+    Input_graph =  web-Google.txt
+    prefetch-distance = 
+---------------------------------

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wl,-rpath-link,  -Wl,-O3 -Wl,--gc-sections -shared  -o SWPrefetchingLLVMPass.so CMakeFiles/SWPrefetchingLLVMPass.dir/SWPrefetchingLLVMPass.cpp.o  -Wl,-rpath,"\$ORIGIN/../lib:/usr/lib/llvm-10/lib" /usr/lib/llvm-10/lib/libLLVM-10.so.1 

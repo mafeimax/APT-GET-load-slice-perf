@@ -1,0 +1,16 @@
+/mh/APT-GET/build/CMakeFiles/intrinsics_gen.dir
+/mh/APT-GET/build/CMakeFiles/edit_cache.dir
+/mh/APT-GET/build/CMakeFiles/rebuild_cache.dir
+/mh/APT-GET/build/CMakeFiles/list_install_components.dir
+/mh/APT-GET/build/CMakeFiles/install.dir
+/mh/APT-GET/build/CMakeFiles/install/local.dir
+/mh/APT-GET/build/CMakeFiles/install/strip.dir
+/mh/APT-GET/build/SWPrefetchingLLVMPass/CMakeFiles/SWPrefetchingLLVMPass.dir
+/mh/APT-GET/build/SWPrefetchingLLVMPass/CMakeFiles/install-SWPrefetchingLLVMPass.dir
+/mh/APT-GET/build/SWPrefetchingLLVMPass/CMakeFiles/install-SWPrefetchingLLVMPass-stripped.dir
+/mh/APT-GET/build/SWPrefetchingLLVMPass/CMakeFiles/edit_cache.dir
+/mh/APT-GET/build/SWPrefetchingLLVMPass/CMakeFiles/rebuild_cache.dir
+/mh/APT-GET/build/SWPrefetchingLLVMPass/CMakeFiles/list_install_components.dir
+/mh/APT-GET/build/SWPrefetchingLLVMPass/CMakeFiles/install.dir
+/mh/APT-GET/build/SWPrefetchingLLVMPass/CMakeFiles/install/local.dir
+/mh/APT-GET/build/SWPrefetchingLLVMPass/CMakeFiles/install/strip.dir

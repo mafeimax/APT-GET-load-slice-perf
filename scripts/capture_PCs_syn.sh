@@ -4,11 +4,12 @@ n=$2
 d=$3
 prefetch_distance=(4 8 16 32 64)
 ####################PATH
-benchmark_path=""                             
-results_path=""
-input_graphs_path=""
-python_codes_path=""
-LLVM10_buildMyPasses=''
+benchmark_path="/mh/APT-GET/CRONO/apps"
+results_path="/mh/APT-GET/results"
+input_graphs_path="/mh/APT-GET/input_graph"
+python_codes_path="/mh/APT-GET/python-codes"
+scripts_path="/mh/APT-GET/scripts"
+LLVM10_buildMyPasses="/usr/lib/llvm-10"
 
 echo ""
 echo "benchmark_name:   "$benchmark_name

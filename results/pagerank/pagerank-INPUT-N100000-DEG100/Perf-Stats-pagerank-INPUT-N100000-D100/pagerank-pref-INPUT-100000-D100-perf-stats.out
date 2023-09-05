@@ -1,0 +1,5 @@
+
+Config: Prefetching
+    Input_graph =  100000-D100
+    prefetch-distance = 
+---------------------------------
